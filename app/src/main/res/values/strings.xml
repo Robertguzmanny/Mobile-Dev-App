@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Learn Android Studio</string>
+    //Headings
+    <string name="heading_one">Quick &amp; Easy</string>
+    <string name="heading_two">Free coding</string>
+    <string name="heading_three">Learn with us</string>
+    <string name="ab"><u><b>Forgot Password?</b></u></string>
+    <string name="ac"><u><b>Already Have an Account?</b></u></string>
+    //Description
+    <string name="desc_one">Learn how to code quick and efficiently</string>
+    <string name="desc_two">Learn Coding with us is completely free and fun!</string>
+    <string name="desc_three">Learning to code can be scary, but with us is actually fun</string>
+
+    <string-array name="Name">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+    </string-array>
+
+    <string-array name="Information">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+    </string-array>
+
+
+</resources>
